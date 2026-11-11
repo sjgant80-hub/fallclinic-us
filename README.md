@@ -24,7 +24,7 @@ A complete clinical anchor running entirely in your browser. Patient records, ap
 
 ## Licence
 
-MIT · Simon Gant · prime 919 · ◊·κ=1.
+MIT · Simon Gant.
 
 
 ## What this tool provides
